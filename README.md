@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👾 Bernardo Veras
 
-<!--
-**bernardoveras/bernardoveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** [@vvssistemas](https://instagram.com/vvssistemas).
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardoveras)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor "Júnior" em busca de constante evolução ;)
+
+- ⚡ Conhecimentos em _Flutter_, _C#_, _Blazor WebAssembly_, _Entity Framework_ e _ASP.Net Core_
+
+- 💜 Apaixonado por interfaces
+
+- 📫 Fale comigo: bernardo@vvssistemas.com.br
+
+> "A verdade só pode ser encontrada em um lugar: o código."
+> ― Tio Uncle Bob xD
