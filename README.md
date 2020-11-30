@@ -2,7 +2,10 @@
 
 **Software Developer** [@vvssistemas](https://instagram.com/vvssistemas).
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardoveras)
+[![Github Badge](https://img.shields.io/badge/-Github-purple?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bernardoveras)](https://github.com/bernardoveras)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/bernardoveras)](https://linkedin.com/in/bernardoveras)
+
 
 Desenvolvedor "Júnior" em busca de constante evolução ;)
 
