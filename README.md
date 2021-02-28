@@ -2,7 +2,7 @@
 
 Software Developer at @vvssistemas
 
-I am a developer and have knowledge in _Flutter_, _C# _, _ASP Net Core_, _Blazor_, _Dart_ and in love 💜 with _Testes_
+I am a developer and have knowledge in _Flutter_, _C#_, _ASP Net Core_, _Blazor_, _Dart_ and in love 💜 with _Testes_
 
 Passionate about technology and programming, I started programming in 2019 and I continue.
 Today I am 18 years old and thirsty for knowledge! 🔥
