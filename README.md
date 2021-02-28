@@ -1,16 +1,13 @@
-# 👾 Bernardo Veras
+# Bernardo Veras
 
-**Software Developer** [@vvssistemas](https://instagram.com/vvssistemas).
+Software Developer at @vvssistemas
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardoveras)
+I am a developer and have knowledge in _Flutter_, _C # _, _ASP Net Core_, _Blazor_, _Dart_ and in love 💜 with _Testes_
 
-Desenvolvedor "Júnior" em busca de constante evolução ;)
+Passionate about technology and programming, I started programming in 2019 and I continue.
+Today I am 18 years old and thirsty for knowledge! 🔥
 
-- ⚡ Conhecimentos em _Flutter_, _C#_, _Blazor WebAssembly_, _Entity Framework_ e _ASP.Net Core_
+Thanks for reading 💜
 
-- 💜 Apaixonado por interfaces
-
-- 📫 Fale comigo: bernardo@vvssistemas.com.br
-
-> "A verdade só pode ser encontrada em um lugar: o código."
-> ― Tio Uncle Bob xD
+[![Linkedin Badge](https://img.shields.io/badge/-Bernardo%20Veras-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardoveras/)](https://www.linkedin.com/in/bernardoveras/) 
+[![Gmail Badge](https://img.shields.io/badge/-bernardo@vvssistemas.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardo@vvsistemas.com.br)](mailto:bernardo@vvssistemas.com.br)
