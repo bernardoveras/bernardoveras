@@ -50,4 +50,7 @@
 <a href="https://www.youtube.com/channel/UCIPQiNyFKC7j7lM-4pni0UQ" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-bernardoveras-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
+<a href="https://t.me/bernardoveras" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-bernardoveras-05122A?style=flat&logo=telegram" alt="telegram"/>
+</a>
 </p>
