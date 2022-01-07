@@ -11,7 +11,7 @@
 
 - ▶️ I regularly post videos on [my youtube](https://www.youtube.com/channel/UCIPQiNyFKC7j7lM-4pni0UQ)
 
-- 💻 Interact with me on [LinkedIn](linkedin.com/in/bernardoveras)
+- 💻 Interact with me on [LinkedIn](https://www.linkedin.com/in/bernardoveras)
 
 - 💬 Ask me about **Flutter, Dart, C#, NET Core, EF Core, SQL, PostgreSQL, Git, Figma and Photoshop**
 
