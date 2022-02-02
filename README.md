@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/bernardoveras/9f0587f3d4e95f47641467401023b7bb/raw/76284d44a657888735d285402a8ccd988d59bec0/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bernardo Veras</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardoveras&color=8257E5" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardoveras&color=7159C1" alt="Profile views" /> </p>
 
 - 🔥 Junior Full-Stack Developer & I sometimes record videos to help the community
 
