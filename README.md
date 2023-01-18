@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bernardo Veras</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardoveras&color=7159C1" alt="Profile views" /> </p>
 
-- 🔥 Junior Full-Stack Developer & I sometimes record videos to help the community
+- 🔥 Pleno Full-Stack Developer & I sometimes record videos to help the community
 
 - 🔭 I’m currently working at [VVS Sistemas](https://vvssistemas.com.br)
 
